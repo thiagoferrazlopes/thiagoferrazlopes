@@ -37,6 +37,9 @@
 - CSS.
 - JavaScript.
 - Figma.
+## Contatos
+Email: dadosthiagoo@gmail.com
 
+Celular: 31982328940
 
 
