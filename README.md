@@ -40,6 +40,6 @@
 ## Contatos
 Email: dadosthiagoo@gmail.com
 
-Celular: 31982328940
+Celular: 31 9 82328940
 
 
