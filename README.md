@@ -30,14 +30,16 @@
 
 ## Estudante de bacharelado em Ciência da Computação
 - Lógica de programação.
-- Desenvolvimento Back-end - Java eclipse.
-- Desenvolvimento Front-end. 
-- HTML.
-- CSS.
-- JavaScript.
+- Desenvolvimento Back-end - Java
+- MySQL
+- Desenvolvimento Front-end 
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
 - Figma.
 ## Contatos
-Email: dadosthiagoo@gmail.com
 
 Celular: 31 9 82328940
 
